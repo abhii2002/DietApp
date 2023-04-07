@@ -1,6 +1,8 @@
 # Foodies
  This app helps you make healthier choices by providing personalized meal plans and recipes based on your dietary preferences and goals.
  
+ ![fOODIES](https://user-images.githubusercontent.com/87520905/230575152-3eee5a08-a6d4-47de-b80a-d12ede1993eb.png)
+ 
 # Tech stack & Open-source libraries. 
 - Minimum SDK level 21
 - [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://developer.android.com/kotlin/coroutines) + [Flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
