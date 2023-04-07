@@ -23,3 +23,6 @@ This app helps you make healthier choices by providing personalized meal plans a
 
 #  Demonstration Video 
 
+https://user-images.githubusercontent.com/87520905/230583770-8621ef26-34c0-485c-b8a1-ba7ed44886ad.mp4
+
+
