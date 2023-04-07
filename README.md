@@ -1,5 +1,5 @@
 # Foodies
- This app helps you make healthier choices by providing personalized meal plans and recipes based on your dietary preferences and goals.This app helps you make healthier choices by providing personalized meal plans and recipes based on your dietary preferences and goals. It is designed with a simple and attractive User Interface. 
+This app helps you make healthier choices by providing personalized meal plans and recipes based on your dietary preferences and goals. It is designed with a simple and attractive User Interface. 
 
  
  ![fOODIES](https://user-images.githubusercontent.com/87520905/230575152-3eee5a08-a6d4-47de-b80a-d12ede1993eb.png)
