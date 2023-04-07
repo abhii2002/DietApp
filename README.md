@@ -5,7 +5,7 @@ This app helps you make healthier choices by providing personalized meal plans a
  ![fOODIES](https://user-images.githubusercontent.com/87520905/230575152-3eee5a08-a6d4-47de-b80a-d12ede1993eb.png)
  
  # Download
- Download the app from [here]()
+ Download the app from [here](https://github.com/abhii2002/DietApp/releases/tag/v1.0.0-alpha)
  
 # Tech stack & Open-source libraries. 
 - Minimum SDK level 21
@@ -20,3 +20,6 @@ This app helps you make healthier choices by providing personalized meal plans a
 - [Glide](https://github.com/bumptech/glide) : To load image into the image view. Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
 - [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android
 - [Lottie](https://github.com/airbnb/lottie-android) : Render After Effects animations natively on Android and iOS, Web, and React Native
+
+#  Demonstration Video 
+
