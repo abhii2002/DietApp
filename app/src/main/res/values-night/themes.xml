@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DietApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#3ec732</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorSecondary</item>
+
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>

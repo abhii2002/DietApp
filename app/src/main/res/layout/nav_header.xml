@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:orientation="vertical"
+    android:background="@drawable/nav_header_main"
+    android:gravity="bottom">
+
+<!--    <de.hdodenhof.circleimageview.CircleImageView-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        app:civ_border_width="1dp"-->
+<!--        android:src="@drawable/ic_diet"-->
+<!--        app:civ_border_color="@color/white"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        />-->
+
+    <LinearLayout
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:background="@drawable/lottie_background"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center">
+
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/colorAccentLoader"
+        android:layout_marginBottom="25dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"
+        android:gravity="center"
+        app:lottie_rawRes="@raw/food_is_ready" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/primary_text_color"/>
+</LinearLayout>
