@@ -10,7 +10,7 @@ This app helps you make healthier choices by providing personalized meal plans a
 # Tech stack & Open-source libraries. 
 - Minimum SDK level 21
 - [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://developer.android.com/kotlin/coroutines) + [Flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
-- Jetpack
+
   - Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
   - ViewModel: Manages UI-related data holder and lifecycle aware. Allows data to survive configuration changes such as screen rotations.
   - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
